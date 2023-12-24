@@ -1,0 +1,38 @@
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 400px;
+  background-color: rgba(9, 9, 9, 1);
+}
+.banner-title {
+  font-size: 70px;
+  line-height: 72px;
+  font-weight: 700;
+  letter-spacing: 0px;
+  color: #fff;
+  margin-bottom: 2rem;
+}
+.rodmap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rodmap-link {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 20px;
+}
+
+.rodmap-icon {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 900;
+  font-size: 15px;
+  margin: 0 1rem;
+}
+
+.rodmap-text {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 20px;
+}
