@@ -2,6 +2,7 @@
 @import './Heade.module.css';
 @import './Banner.module.css';
 @import './Form.module.css';
+@import './Footer.module.css';
 html {
   direction: rtl;
 }

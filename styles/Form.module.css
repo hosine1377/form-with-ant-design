@@ -23,4 +23,6 @@ input:focus,
 input:active {
   border-color: #000;
   border: none;
+  outline: none;
+  box-shadow: none;
 }
